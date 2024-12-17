@@ -1,0 +1,18 @@
+[
+    {
+        "original_text": "私のビデオを見てくれてありがとう。",
+        "analysis": "Sorry, I could not extract any important details like dates, people, and amounts from the text you provided. It's a Japanese sentence that translates as \"Thank you for watching my video.\""
+    },
+    {
+        "original_text": "Nihana 300 lira borç verdim. Geri alacağız cuma günü.",
+        "analysis": "Borç Verilen Kişi: Nihana\nBorç Miktarı : 300 lira\nBorç Geri Alma tarihi : Bilgi yok (cuma günü olarak belirtilmiş, ancak belirli bir tarih verilmemiş)"
+    },
+    {
+        "original_text": "Nihan'a 300 lira borç verdim, bu cuma günü alacağım.",
+        "analysis": "Önemli Detaylar:\n- Kişi: Nihan\n- Miktar: 300 lira\n- Tarih: Ne zaman olduğunu belirtmediğiniz için, tarihi belirleyemem."
+    },
+    {
+        "original_text": "Nihana 300 lira borç verdim. Cuma günü geri alacağım.",
+        "analysis": "Önemli detaylar:\n\n- Kişi: Nihana\n- Miktar: 300 lira\n- Önemli ve kesin bir tarih bulunmamaktadır. Cuma günü dediğiniz günün tarihi belirlenmelidir.\n\nNot: Metnin analizine dayanarak borç ilişkisi de tespit edildi ancak bu bir miktar veya tarih değil."
+    }
+]
